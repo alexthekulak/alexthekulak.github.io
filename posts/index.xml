@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Passing Thoughts From Alex</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on Passing Thoughts From Alex</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 28 Jul 2020 13:01:16 -0700</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A Review of &#39;Can A Catholic Be A Socialist?&#39;</title>
+      <link>http://localhost:1313/posts/review-socialist/</link>
+      <pubDate>Tue, 28 Jul 2020 13:01:16 -0700</pubDate>
+      
+      <guid>http://localhost:1313/posts/review-socialist/</guid>
+      <description>In many respects, democratic socialism was and is close to Catholic social doctrine, and has in any case made a remarkable contribution to the formation of a social consciousness. - Joseph Cardinal Ratzinger
+ As a criticism of Catholic Socialism, Horn and Pakulak (H&amp;amp;P) offer a thoroughly mediocre rebuttal. As a defense of capitalism as an economic system, H&amp;amp;P offer an underwhelming picture. On the other hand, as an exemplar of current Republican polemics, H&amp;amp;P give it to us, par excellence, with several chapters feeling as if they could have been lifted straight from a Glenn Beck book from when he still had a program on Fox News.</description>
+    </item>
+    
+  </channel>
+</rss>
