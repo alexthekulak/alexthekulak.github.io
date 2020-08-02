@@ -2,30 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Passing Thoughts From Alex</title>
-    <link>http://alexkulak.com/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Passing Thoughts From Alex</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 29 Jul 2020 21:53:58 -0700</lastBuildDate>
+    <lastBuildDate>Sat, 01 Aug 2020 18:44:41 -0700</lastBuildDate>
     
-	<atom:link href="http://alexkulak.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Primer on Catholic Social Teaching In Economics: Abstract Matters</title>
+      <link>http://localhost:1313/posts/primer-abstract/</link>
+      <pubDate>Sat, 01 Aug 2020 18:44:41 -0700</pubDate>
+      
+      <guid>http://localhost:1313/posts/primer-abstract/</guid>
+      <description>The proper exercise of personal freedom requires specific conditions of an economic, social, juridic, political and cultural order that “are too often disregarded or violated. Such situations of blindness and injustice injure the moral life and involve the strong as well as the weak in the temptation to sin against charity. By deviating from the moral law man violates his own freedom, becomes imprisoned within himself, disrupts neighbourly fellowship and rebels against divine truth.</description>
+    </item>
+    
+    <item>
+      <title>Primer on Catholic Social Teaching In Economics: Principles</title>
+      <link>http://localhost:1313/posts/primer-teaching/</link>
+      <pubDate>Sat, 01 Aug 2020 14:59:56 -0700</pubDate>
+      
+      <guid>http://localhost:1313/posts/primer-teaching/</guid>
+      <description>The Church&amp;rsquo;s social doctrine is not a &amp;ldquo;third way&amp;rdquo; between liberal capitalism and Marxist collectivism, nor even a possible alternative to other solutions less radically opposed to one another: rather, it constitutes a category of its own. Nor is it an ideology, but rather the accurate formulation of the results of a careful reflection on the complex realities of human existence, in society and in the international order, in the light of faith and of the Church&amp;rsquo;s tradition.</description>
+    </item>
+    
+    <item>
       <title>Textbook Reviews</title>
-      <link>http://alexkulak.com/posts/textbook-reviews/</link>
+      <link>http://localhost:1313/posts/textbook-reviews/</link>
       <pubDate>Wed, 29 Jul 2020 21:53:58 -0700</pubDate>
       
-      <guid>http://alexkulak.com/posts/textbook-reviews/</guid>
+      <guid>http://localhost:1313/posts/textbook-reviews/</guid>
       <description>I&amp;rsquo;ve often thought about doing a reivew of textbooks as I&amp;rsquo;ve come across them, and looking back on the first year, I think that now is an opportune time to actually think about the books I&amp;rsquo;ve read for my classes or research. This is an ongoing list, purely opinionated, and entirely meant as a catharsis of all the content that is covered in a PhD program, especially in the required first year sequence.</description>
     </item>
     
     <item>
       <title>A Review of &#39;Can A Catholic Be A Socialist?&#39;</title>
-      <link>http://alexkulak.com/posts/review-socialist/</link>
+      <link>http://localhost:1313/posts/review-socialist/</link>
       <pubDate>Tue, 28 Jul 2020 13:01:16 -0700</pubDate>
       
-      <guid>http://alexkulak.com/posts/review-socialist/</guid>
+      <guid>http://localhost:1313/posts/review-socialist/</guid>
       <description>In many respects, democratic socialism was and is close to Catholic social doctrine, and has in any case made a remarkable contribution to the formation of a social consciousness. - Joseph Cardinal Ratzinger
  As a criticism of Catholic Socialism, Horn and Pakulak (H&amp;amp;P) offer a thoroughly mediocre rebuttal. As a defense of capitalism as an economic system, H&amp;amp;P offer an underwhelming picture. On the other hand, as an exemplar of current Republican polemics, H&amp;amp;P give it to us, par excellence, with several chapters feeling as if they could have been lifted straight from a Glenn Beck book from when he still had a program on Fox News.</description>
     </item>
